@@ -1,4 +1,3 @@
-### Hi there 👋
 # Jimin Ha
 ## Skill
 **Tech** :  
