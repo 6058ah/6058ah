@@ -1,4 +1,5 @@
 # 하지민
+티스토리 블로그(https://6058ah.tistory.com)
 ### 아래 기술 되어 있는 내용 중 *표시는 앞으로 채워나가야 할 부분들 입니다.
 ## Skill
 **Tech** :  
@@ -55,7 +56,6 @@
 - [핸즈온 머신러닝](https://g.co/kgs/doQArj)
 - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG) ing
 - 관련 [깃헙](https://github.com/6058ah/DataScienceStudy)
-- 학습 블로그(https://6058ah.tistory.com)
 
 **Pre-인턴십 코스, 한국 핀테크 지원센터**(2020.06.27 ~ 2020.08.22)
 - Fintech 비즈니스 인사이트 학습 및 IT 기술 실습
