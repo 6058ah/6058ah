@@ -23,6 +23,12 @@
 - Crontab 활용한 동적 데이터 수집 경험
 - Beautiful Soup, Selenium 활용한 데이터 크롤링
 - Matplotlib, Plotly 사용한 데이터 시각화(basic chart 구현)
+- 서버리스 데이터 레이크 아키텍처 설계
+- Amazon S3를 스토리지를 사용하여 데이터를 Data Lake로 수집하는 데이터 처리 파이프라인 구축
+- 실시간 스트리밍 데이터에 Amazon Kinesis 사용
+- AWS Glue를 사용하여 데이터세트 자동 분류
+- AWS Glue 개발 엔드포인트에 연결된 Amazon SageMaker Jupyter 노트북에서 대화형 ETL 스크립트 실행
+- Amazon Athena를 사용하여 데이터를 쿼리하고 Amazon QuickSight를 사용하여 시각화
 
 
 ## Experience
