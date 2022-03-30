@@ -64,7 +64,7 @@
 ## Projects
 **Capstome Design**(2021.06~2021.08)  
 [LSTM과 감성 분석을 활용한 테마형 ETF(2차전지) 가격 예측](https://6058ah.tistory.com/6)  
-개발 환경 : colab
+개발 환경 : google colab  
 개발 언어/라이브러리 : python/pandas, numpy, matplotlib, pykrx, sklearn, keras  
 - 교수님 지도 하에 sklearn,keras를 활용한 LSTM과 가격 예측 관련 연구 자료를 조사  
 - Beatiful Soup 사용하여 뉴스 데이터 추출  
