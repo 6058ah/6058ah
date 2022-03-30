@@ -19,6 +19,7 @@
 - AWS EC2에서 Ubuntu, anaconda 환경 구축 경험
 - AWS RDS 생성 및 EC2 python과 연동 경험
 - Amazon S3 이용한 데이터 업로드 경험
+- Python 사용한 데이터 분석 및 모델링 경험
 - Crontab 활용한 동적 데이터 수집 경험
 - Beautiful Soup, Selenium 활용한 데이터 크롤링
 - Matplotlib, Plotly 사용한 데이터 시각화(basic chart 구현)
@@ -61,7 +62,10 @@
 - 최종 ppt 최우수상 수상
 
 ## Projects
-**Capstome Design** [LSTM과 감성 분석을 활용한 테마형 ETF(2차전지) 가격 예측](https://6058ah.tistory.com/6)  
+**Capstome Design**(2021.06~2021.08)  
+[LSTM과 감성 분석을 활용한 테마형 ETF(2차전지) 가격 예측](https://6058ah.tistory.com/6)  
+개발 환경 : colab
+개발 언어/라이브러리 : python/pandas, numpy, matplotlib, pykrx, sklearn, keras  
 - 교수님 지도 하에 sklearn,keras를 활용한 LSTM과 가격 예측 관련 연구 자료를 조사  
 - Beatiful Soup 사용하여 뉴스 데이터 추출  
 - matplotlib를 활용한 주가 데이터 시각화
