@@ -21,7 +21,7 @@
 - Amazon S3 이용한 데이터 업로드 경험
 - Crontab 활용한 동적 데이터 수집 경험
 - Beautiful Soup, Selenium 활용한 데이터 크롤링
-- Matplotlib, Plotly 사용한 데이터 시각화
+- Matplotlib, Plotly 사용한 데이터 시각화(basic chart 구현)
 
 --------------------------------------
 - 데이터 기반 의사결정 위한 정량 수치 정의 *
