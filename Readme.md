@@ -44,7 +44,7 @@
 - 관련 매뉴얼 작성 및 프레젠테이션 진행하여 인수인계 진행
 
 ## Education  
-**경제학과, 핀테크 연계전공, 연새대학교(원주)**(2015 ~ 2021)  
+**경제학과, 핀테크 연계전공, 연세대학교 원주캠퍼스**(2015 ~ 2021)  
 - Financial Analysis Programming(A0), Data Structure(A-), Object Orinted Programming(A0), Fundamentals of Algorithms(A+) etc
 - 3.83/4.30 GPA
 
